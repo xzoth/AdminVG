@@ -1,0 +1,6 @@
+E:\AdminVG\AdminVG\bin\AdminVG.dll.config
+E:\AdminVG\AdminVG\bin\AdminVG.dll
+E:\AdminVG\AdminVG\bin\AdminVG.pdb
+E:\AdminVG\AdminVG\obj\Debug\AdminVG.csprojResolveAssemblyReference.cache
+E:\AdminVG\AdminVG\obj\Debug\AdminVG.dll
+E:\AdminVG\AdminVG\obj\Debug\AdminVG.pdb
